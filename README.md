@@ -1,7 +1,6 @@
-# summit-2017
+# CloudFest - 2017
 
-PWA for Polymer Summit 2017.
-
+PWA CloudFest 2017
 ## Setup
 
 ```
